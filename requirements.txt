@@ -33,3 +33,8 @@ email-validator
 
 pydantic-settings
 python-multipart
+
+
+
+
+databases
